@@ -1,0 +1,1 @@
+# plugins-shortcode-support-for-elementor-templates
